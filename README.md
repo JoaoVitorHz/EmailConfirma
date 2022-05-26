@@ -9,4 +9,4 @@ Aprendi esse projeto no curso de PHP do Bonieky Lacerda!!😉
 
 <h2> Uso ✧</h2>
 -Pra usar esse sistema e importantissimo lembra que ele tem que estar em algum servidor remoto. <br>
--Você também que colocar o banco no servidor remoto.
+-Você também tem que colocar o banco no servidor remoto.
